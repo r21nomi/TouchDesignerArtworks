@@ -1,5 +1,5 @@
 # instancing_3
-![](./art/art.png)
+![](./art/art.PNG)
 
 ## Tips
 - About object TOP, it's important to change the start / end value type from `Second` to `Frame` in Channel tab to avoid performance issue
