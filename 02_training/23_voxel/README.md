@@ -1,2 +1,0 @@
-# voxel
-![](./art/art.png)
